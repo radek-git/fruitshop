@@ -32,7 +32,7 @@ public class CategoryControllerTest {
     @InjectMocks
     CategoryController categoryController;
 
-    MockMvc mockMvc; //?
+    MockMvc mockMvc;
 
     @Before
     public void setUp() throws Exception {
